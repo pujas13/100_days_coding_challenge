@@ -1,2 +1,2 @@
 # 100_days_coding_challenge
-Attempt to code for 100 days
+Attempt of random coding for 100 days
